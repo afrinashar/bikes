@@ -11,6 +11,7 @@ yarn dev
 # or
 pnpm dev
 ```
+![bike pulsar](https://github.com/afrinashar/bikes/assets/98964571/46a15932-4f71-4662-84d1-3c8f7aac7760)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
